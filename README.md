@@ -1,0 +1,2 @@
+# MongoPractice
+MONGODB learning repository
